@@ -1,0 +1,12 @@
+{
+  "name": "Projet",
+  "version": "1.0.0",
+  "description": "Projet Discord Bot",
+  "main": "main.js",
+  "repository": "https://github.com/Stormv23/Bot-Discord-.git",
+  "author": "<pascal.abouadaou@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
